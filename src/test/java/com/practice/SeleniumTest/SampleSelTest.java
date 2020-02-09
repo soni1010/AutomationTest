@@ -15,6 +15,7 @@ public class SampleSelTest {
 	@Test
 	public void testMethod() throws InterruptedException {
 
+		//sample
 		System.setProperty("webdriver.chrome.driver","D:/Sotwares/chromedriver79.exe");
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
