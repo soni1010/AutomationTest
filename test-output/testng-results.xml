@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleSuite" duration-ms="18217" started-at="2020-02-08T07:36:58Z" finished-at="2020-02-08T07:37:16Z">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="18217" started-at="2020-02-08T07:36:58Z" finished-at="2020-02-08T07:37:16Z">
+      <class name="com.practice.SeleniumTest.SampleSelTest">
+        <test-method status="PASS" signature="A()[pri:0, instance:com.practice.SeleniumTest.SampleSelTest@534df152]" name="A" duration-ms="15" started-at="2020-02-08T07:36:58Z" finished-at="2020-02-08T07:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.practice.SeleniumTest.SampleSelTest@534df152]" name="testMethod" duration-ms="18139" started-at="2020-02-08T07:36:58Z" finished-at="2020-02-08T07:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.practice.SeleniumTest.SampleSelTest@534df152]" name="testMethod1" duration-ms="16" started-at="2020-02-08T07:37:16Z" finished-at="2020-02-08T07:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- com.practice.SeleniumTest.SampleSelTest -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- SampleSuite -->
+</testng-results>
